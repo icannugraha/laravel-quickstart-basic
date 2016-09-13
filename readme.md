@@ -1,5 +1,7 @@
 # Laravel Quickstart - Basic
 
+https://codeship.com/projects/173493/status?branch=master
+
 ## Quck Installation
 
     git clone https://github.com/laravel/quickstart-basic quickstart
